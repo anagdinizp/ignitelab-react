@@ -1,5 +1,7 @@
 export function Video(){
   return(
-    <h1>Video</h1>
+    <h1 className="flex-1">
+      Video
+    </h1>
   )
 }
